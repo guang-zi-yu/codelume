@@ -1,0 +1,3 @@
+[submodule "codelume-minio"]
+	path = codelume-minio
+	url = https://github.com/guang-zi-yu/codelume-minio.git
